@@ -1,0 +1,20 @@
+{
+  "name": "imgHubWeb",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "@types/jquery": "^3.5.4",
+    "axios": "^0.21.0",
+    "jquery": "^3.5.1",
+    "vue": "^3.0.0-rc.1"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.5",
+    "sass": "^1.27.1",
+    "vite": "^1.0.0-rc.1",
+    "@vue/compiler-sfc": "^3.0.0-rc.1"
+  }
+}
