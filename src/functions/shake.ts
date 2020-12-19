@@ -1,4 +1,4 @@
-export function CreateShake(f:(...any:any)=>any,shakeTimeMs=1*1000){
+export function createShake(f:(...any:any)=>any,shakeTimeMs=1*1000){
     let topTime=0;
     return ()=>{
         const thisTime=Date.now();
